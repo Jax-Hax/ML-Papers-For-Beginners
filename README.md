@@ -6,9 +6,15 @@ I started my AI journey in 2022, wanting to understand how ChatGPT could be so g
 
 ## Layout
 - [Start here if you are a beginner](#beginner-path)
+- [Classic Papers](#classic-papers)
+- [Modern Papers](#modern-papers)
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [Articles](#articles)
 
 ## Beginner path
-
+If you have never programmed before, I highly suggest the [100 Days of Python](https://100daysofpython.dev/) course by Angela, it's great and it uses the same programming language that most of AI is in.  
+For an intro to deep learning itself, check out the [Practical Deep Learning for Coders](https://course.fast.ai/) course. It's a great intro to the overview of ML using FastAI, with a more advanced Part 2. There is also a book that goes along with it but is a bit more out of date.
 
 ## Classic papers
 
